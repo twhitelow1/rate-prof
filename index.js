@@ -7,7 +7,7 @@ app.use(express.json());
 
 // Create a catch-all route for testing the installation.
 app.get('*', (req, res) => res.status(200).send({
-  message: 'Hello World!',
+  message: 'Welcom to the Rate My Professor API',
 }));
 
 const port = 5000;
