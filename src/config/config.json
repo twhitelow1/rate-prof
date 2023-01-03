@@ -2,8 +2,8 @@
   "development": {
     "username": "me",
     "password": "password",
-    "database": "rate_my_backend",
-    "host": "127.0.0.1",
+    "database": "rate-my-prof-database",
+    "host": "localhost",
     "dialect": "postgres"
   },
   "test": {
